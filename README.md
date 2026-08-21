@@ -1,2 +1,2 @@
-# Inform-tica-Aplicada-a-Log-stica-
+# Informatica-Aplicada-a-Logistica-
 Trabalhos de informática e Logística 
