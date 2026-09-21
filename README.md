@@ -11,3 +11,4 @@ Atividade desenvolvida a partir de uma base escolhida no portal de dados abertos
 <img width="1887" height="753" alt="image" src="https://github.com/user-attachments/assets/6f061c13-1d7a-4477-b456-40cf41b52a6d" />
 ## Análise de Dados de Empresas Multimodais
 Atividade desenvolvida a partir de uma base de dados de empresas multimodais, inicialmente analisada no Excel e posteriormente aplicada no Power BI. Foram feitas 3 questões e 1 questão feito pelo aluno onde foram utilizadas visualizações gráficas para analisar e apresentar os resultados.
+<img width="1372" height="762" alt="image" src="https://github.com/user-attachments/assets/757693c8-5ce9-4b65-80eb-f1f71b042c24" />
