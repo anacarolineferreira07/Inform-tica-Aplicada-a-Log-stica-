@@ -14,6 +14,6 @@ Atividade desenvolvida a partir de uma base de dados de empresas multimodais, in
 <img width="1316" height="732" alt="Captura de tela 2026-09-27 203137" src="https://github.com/user-attachments/assets/5c2a55ad-e0ec-4cfb-9ead-eea92a1c523f" />
 ## Atividade Análise de Dados no Power BI
 Nesta atividade, foi realizada a continuação de uma análise desenvolvida anteriormente no Excel. Inicialmente, foram selecionados dados do Portal Brasileiro de Dados Abertos, disponibilizados em formato CSV, que foram organizados e filtrados para a elaboração de cinco gráficos no Excel. Nesta etapa, os mesmos dados e análises foram reproduzidos no Power BI, utilizando seus recursos de visualização e interação para apresentar os resultados de forma mais organizada e dinâmica.
-<img width="1316" height="732" alt="Captura de tela 2026-09-27 203137" src="https://github.com/user-attachments/assets/27d5872f-e77e-4774-b07a-9d002f6fd74c" />
+<img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/d5503630-fec6-4c9c-a280-fdce60cd1170" />
 
 
