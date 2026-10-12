@@ -7,7 +7,9 @@ Trabalhos de informática Aplicada e Logística
 * [Atividade 3](#atividade-3)
 * [Atividade 4](#atividade-4)
 * [Atividade 5](#atividade-5)
+* [Atividade 6](#atividade-6)
 
+Nesta etapa, utilizamos uma base de dados governamental previamente tratada para aprofundar as técnicas de modelagem no Power BI. O foco técnico da atividade foi a criação de uma tabela dimensional e o estabelecimento de um relacionamento de cardinalidade "1 para muitos" com a base principal. Além disso, aplicamos a técnica de categorização de dados por URL, o que permitiu renderizar figuras dinamicamente (bandeiras estaduais) e integrar imagens diretamente às visualizações e tabelas do painel.
 ## Atividade 1 
 # Apresentação Pessoal em equipe
 Atividae realizada com objetivo de apresentar os integrantes do grupo, permitindo conhecer os participantes.
@@ -28,5 +30,10 @@ Atividade desenvolvida a partir de uma base de dados de empresas multimodais, in
 # Atividade Análise de Dados no Power BI
 Nesta atividade, foi realizada a continuação de uma análise desenvolvida anteriormente no Excel. Inicialmente, foram selecionados dados do Portal Brasileiro de Dados Abertos, disponibilizados em formato CSV, que foram organizados e filtrados para a elaboração de cinco gráficos no Excel. Nesta etapa, os mesmos dados e análises foram reproduzidos no Power BI, utilizando seus recursos de visualização e interação para apresentar os resultados de forma mais organizada e dinâmica.
 <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/d5503630-fec6-4c9c-a280-fdce60cd1170" />
+
+## Atividade 6
+Nesta etapa, utilizamos uma base de dados governamental previamente tratada para aprofundar as técnicas de modelagem no Power BI. O foco técnico da atividade foi a criação de uma tabela dimensional e o estabelecimento de um relacionamento de cardinalidade "1 para muitos" com a base principal. Além disso, aplicamos a técnica de categorização de dados por URL, o que permitiu renderizar figuras dinamicamente (bandeiras estaduais) e integrar imagens diretamente às visualizações e tabelas do painel.
+<img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/cbaf4f54-6067-4ce3-af85-7db966a4a399" />
+
 
 
