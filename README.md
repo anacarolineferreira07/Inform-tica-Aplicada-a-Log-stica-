@@ -1,5 +1,5 @@
 # Informatica Aplicada a Logistica
-Trabalhos de informática Aplicada e Logística 
+Trabalhos de informática Aplicada e Logística.
 
 ## Índice
 * [Atividade 1](#atividade-1)
