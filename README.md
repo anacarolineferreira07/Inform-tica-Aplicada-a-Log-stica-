@@ -19,7 +19,7 @@ Atividae realizada com objetivo de apresentar os integrantes do grupo, permitind
 Atividade desenvolvida para trabalhar a organização e análise da dados utilizando planilha dos dados antt. Foram realizadas questões envolvendo tratamento, interpretação e apresentação dos dados que feitos gráficos com essas informações.
 <img width="1872" height="708" alt="image" src="https://github.com/user-attachments/assets/4220b115-4308-46d2-be6e-c79ae984fa01" />
 ## Atividade 3
-Atividade de Análise Dados - Dados Cadastrais de Revendedores de Combustivel - 9 de Setembro
+# Atividade de Análise Dados - Dados Cadastrais de Revendedores de Combustivel - 9 de Setembro
 Atividade desenvolvida a partir de uma base escolhida no portal de dados abertos, sendo eles Dados Cadastrais de Revendedores Varejistas Combustíveis, envolvendo e a elaboração de cinco questões, que resultados apresentados foram feitos por meio de gráficos para facilitar a visualização e interpretação da informações.
 <img width="1887" height="753" alt="image" src="https://github.com/user-attachments/assets/6f061c13-1d7a-4477-b456-40cf41b52a6d" />
 ## Atividade 4
