@@ -9,7 +9,7 @@ Trabalhos de informática Aplicada e Logística
 * [Atividade 5](#atividade-5)
 * [Atividade 6](#atividade-6)
 
-Nesta etapa, utilizamos uma base de dados governamental previamente tratada para aprofundar as técnicas de modelagem no Power BI. O foco técnico da atividade foi a criação de uma tabela dimensional e o estabelecimento de um relacionamento de cardinalidade "1 para muitos" com a base principal. Além disso, aplicamos a técnica de categorização de dados por URL, o que permitiu renderizar figuras dinamicamente (bandeiras estaduais) e integrar imagens diretamente às visualizações e tabelas do painel.
+
 ## Atividade 1 
 # Apresentação Pessoal em equipe
 Atividae realizada com objetivo de apresentar os integrantes do grupo, permitindo conhecer os participantes.
