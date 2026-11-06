@@ -35,5 +35,11 @@ Nesta atividade, foi realizada a continuação de uma análise desenvolvida ante
 Nesta etapa, utilizamos uma base de dados governamental previamente tratada para aprofundar as técnicas de modelagem no Power BI. O foco técnico da atividade foi a criação de uma tabela dimensional e o estabelecimento de um relacionamento de cardinalidade "1 para muitos" com a base principal. Além disso, aplicamos a técnica de categorização de dados por URL, o que permitiu renderizar figuras dinamicamente (bandeiras estaduais) e integrar imagens diretamente às visualizações e tabelas do painel.
 <img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/cbaf4f54-6067-4ce3-af85-7db966a4a399" />
 
+## Atividade Ice Cream no Excel e Google Coolab
+
+<img width="876" height="471" alt="image" src="https://github.com/user-attachments/assets/8bb113ec-5391-40bb-b7fb-ed490c9e7092" />
+
+
+
 
 
