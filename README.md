@@ -8,7 +8,8 @@ Trabalhos de informática Aplicada e Logística.
 * [Atividade 4](#atividade-4)
 * [Atividade 5](#atividade-5)
 * [Atividade 6](#atividade-6)
-
+* [Atividade 7](#atividade-7)
+* [Atividade 8](#atividade-8)
 
 ## Atividade 1 
 # Apresentação Pessoal em equipe
@@ -57,7 +58,7 @@ Atividade iniciada com a extração de um dataset bruto da plataforma Kaggle. Os
 ## Parte 2: Automação e Validação no Google Colab (Python)
 Para fins de comparação entre ferramentas, o mesmo experimento foi replicado via programação. Foi aberto um novo notebook no Google Colab e, com o auxílio de IA, foi estruturado um código que importou os mesmos dados do Kaggle. O dataset foi transformado via código, gerando a plotagem de um novo gráfico de regressão linear que incluiu a análise com a raiz quadrada, permitindo validar e comparar os resultados obtidos anteriormente no Excel.
 
-<img width="1057" height="678" alt="image" src="https://github.com/user-attachments/assets/54fec264-9f40-47fb-87f0-505439f7e868" />
+<img width="997" height="637" alt="image" src="https://github.com/user-attachments/assets/f4c0f32f-dce2-4714-a5a7-84ec5f724b8e" />
 
 ## Atividade 8
 Dashboard de Expectativa de Vida e Regressão Linear
