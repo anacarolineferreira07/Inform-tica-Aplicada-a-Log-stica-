@@ -75,7 +75,8 @@ Extração de um dataset acadêmico do GitHub para testar a correlação entre o
 
 Para validar o modelo criado no Excel, o processo estatístico foi replicado via código. A partir do mesmo link do GitHub, utilizou-se IA para gerar o script de plotagem. Após o refinamento manual do código para isolar apenas as variáveis necessárias (horas e notas), o script gerou o gráfico de regressão linear exibindo a equação e o coeficiente R, confirmando a exatidão dos resultados.
 
-<img width="1060" height="675" alt="image" src="https://github.com/user-attachments/assets/beabc997-1736-467c-ac22-38928d723865" />
+<img width="1056" height="677" alt="image" src="https://github.com/user-attachments/assets/d93f33d8-fd1b-4b6f-8253-5fd3738511dd" />
+
 
 
 
