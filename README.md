@@ -53,7 +53,8 @@ Nesta etapa, utilizamos uma base de dados governamental previamente tratada para
 ## Parte 1: Tratamento de Dados e Modelagem no Excel
 Atividade iniciada com a extração de um dataset bruto da plataforma Kaggle. Os dados foram descompactados e estruturados no Excel convertendo o arquivo CSV (usando o recurso de dividir Texto para Colunas com separação por vírgula). Em seguida, foi construído um gráfico de dispersão mapeando as variáveis nos eixos X e Y, finalizando com a aplicação de uma linha de tendência (regressão linear) para a análise visual inicial.
 
-<img width="876" height="471" alt="image" src="https://github.com/user-attachments/assets/8bb113ec-5391-40bb-b7fb-ed490c9e7092" />
+<img width="836" height="428" alt="image" src="https://github.com/user-attachments/assets/e9936e43-a972-4045-9a8b-8aebcab81f41" />
+
 
 ## Parte 2: Automação e Validação no Google Colab (Python)
 Para fins de comparação entre ferramentas, o mesmo experimento foi replicado via programação. Foi aberto um novo notebook no Google Colab e, com o auxílio de IA, foi estruturado um código que importou os mesmos dados do Kaggle. O dataset foi transformado via código, gerando a plotagem de um novo gráfico de regressão linear que incluiu a análise com a raiz quadrada, permitindo validar e comparar os resultados obtidos anteriormente no Excel.
