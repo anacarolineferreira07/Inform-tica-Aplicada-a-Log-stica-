@@ -63,7 +63,7 @@ Para fins de comparação entre ferramentas, o mesmo experimento foi replicado v
 
 
 ## Atividade 8
-Dashboard de Expectativa de Vida e Regressão Linear
+# Dashboard de Expectativa de Vida e Regressão Linear
 
 ## Parte 1: Dashboard de Expectativa de Vida (Power BI)
 Com base nos dados coletados do portal Our World in Data, foi elaborado um dashboard executivo contendo três visualizações interativas. O painel apresenta a evolução histórica da expectativa de vida global através de um gráfico de linha e compara o ranking dos países com as maiores e menores médias utilizando gráficos de barras, aplicando filtros de temporalidade para garantir a consistência estatística da análise.
