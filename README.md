@@ -79,6 +79,12 @@ Para validar o modelo criado no Excel, o processo estatístico foi replicado via
 
 <img width="1056" height="677" alt="image" src="https://github.com/user-attachments/assets/d93f33d8-fd1b-4b6f-8253-5fd3738511dd" />
 
+### Comparação entre os gráficos (Excel x Python)
 
+Os dois gráficos são praticamente iguais porque foram feitos usando a mesma base de dados (*Horas Estudadas vs. Nota do Exame*). Se olhar para os pontos espalhados no gráfico, eles estão exatamente nos mesmos lugares e mostram a mesma tendência: quanto mais horas de estudo, maior tende a ser a nota da prova.
+
+A pequena diferença nos números da equação e do $R^2$ acontece só pelo jeito que cada ferramenta calcula a regressão. No **Excel**, eu usei 100% dos dados juntos para gerar a linha de tendência ($y = 1,6341x + 23,618$ e $R^2 = 0,6033$). Já no **Python (Colab)**, os dados foram divididos entre treino e teste antes de calcular a reta ($y = 1,61x + 23,78$ e $R^2 = 0,6389$).
+
+No fim, mesmo com essa pequena diferença nos decimais por causa da divisão dos dados no código, os dois gráficos chegam no mesmo resultado e mostram a mesma relação entre as variáveis.
 
 
