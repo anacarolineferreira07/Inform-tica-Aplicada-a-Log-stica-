@@ -73,7 +73,7 @@ Para fins de comparação entre ferramentas, o mesmo experimento foi replicado v
 
 <img width="1148" height="677" alt="image" src="https://github.com/user-attachments/assets/b2212af1-cbd3-4307-8a0b-0010d94ac686" />
 
-# [Arquivos da atividade 7]()
+# [Arquivos da atividade 7](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/77f5625d6617a4d8fe47bff050ae26dcf37f8516/Atividade%207%20Ice%20Cream%20Excel)
 
 ## Atividade 8
 # Dashboard de Expectativa de Vida e Regressão Linear
