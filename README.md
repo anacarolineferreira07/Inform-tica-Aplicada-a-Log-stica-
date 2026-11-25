@@ -49,7 +49,7 @@ Nesta atividade, foi realizada a continuação de uma análise desenvolvida ante
 
 <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/d5503630-fec6-4c9c-a280-fdce60cd1170" />
 
-# [Arquivos da atividade 5]()
+# [Arquivos da atividade 5](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/43c4125e87dcf66c9467f459371366a7ce13e597/Atividade%205)
 
 ## Atividade 6
 # Incluíndo imagens URL no Power BI
@@ -57,7 +57,7 @@ Nesta etapa, utilizamos uma base de dados governamental previamente tratada para
 
 <img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/cbaf4f54-6067-4ce3-af85-7db966a4a399" />
 
-# [Arquvivos da Atividade 6
+# [Arquvivos da Atividade 6]()
 
 ## Atividade 7
 # Análise de Regressão Linear - Vendas de Sorvete (Kaggle)
