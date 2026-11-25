@@ -17,7 +17,7 @@ Atividae realizada com objetivo de apresentar os integrantes do grupo, permitind
 
 <img width="1252" height="702" alt="image" src="https://github.com/user-attachments/assets/a7b3cec8-882d-48c4-b188-692d4f3f5e50" />
 
-## [Arquivo da ativida 1](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/c96bf0beea50577b4d3884ceb46efc9dc606f0e7/Atividade%201)
+## [Arquivo da atividade 1](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/c96bf0beea50577b4d3884ceb46efc9dc606f0e7/Atividade%201)
 
 ## Atividade 2
 # Atividade de Informática Operador Multimodais - 28 de Agosto
@@ -25,7 +25,7 @@ Atividade desenvolvida para trabalhar a organização e análise da dados utiliz
 
 <img width="1872" height="708" alt="image" src="https://github.com/user-attachments/assets/4220b115-4308-46d2-be6e-c79ae984fa01" />
 
-## [Arquivo da ativide 2](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/4d813c04597051e93b1c66a09b979dd12dea6a2d/Atividade%202)
+## [Arquivo da atividade 2](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/4d813c04597051e93b1c66a09b979dd12dea6a2d/Atividade%202)
 
 ## Atividade 3
 # Atividade de Análise Dados - Dados Cadastrais de Revendedores de Combustivel - 9 de Setembro
@@ -41,7 +41,7 @@ Atividade desenvolvida a partir de uma base de dados de empresas multimodais, in
 
 <img width="1316" height="732" alt="Captura de tela 2026-09-27 203137" src="https://github.com/user-attachments/assets/5c2a55ad-e0ec-4cfb-9ead-eea92a1c523f" />
 
-# [Arquivo da atvidade 4](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/03cb6fdbd7a50414c04a8a8c5693605bf47f4590/Atividade%204)
+## [Arquivo da atividade 4](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/03cb6fdbd7a50414c04a8a8c5693605bf47f4590/Atividade%204)
 
 ## Atividade 5
 # Atividade Análise de Dados no Power BI
@@ -49,7 +49,7 @@ Nesta atividade, foi realizada a continuação de uma análise desenvolvida ante
 
 <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/d5503630-fec6-4c9c-a280-fdce60cd1170" />
 
-# [Arquivo da atividade 5](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/43c4125e87dcf66c9467f459371366a7ce13e597/Atividade%205)
+## [Arquivo da atividade 5](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/43c4125e87dcf66c9467f459371366a7ce13e597/Atividade%205)
 
 ## Atividade 6
 # Incluíndo imagens URL no Power BI
@@ -57,7 +57,7 @@ Nesta etapa, utilizamos uma base de dados governamental previamente tratada para
 
 <img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/cbaf4f54-6067-4ce3-af85-7db966a4a399" />
 
-# [Arquvivo da Atividade 6](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/1eaa5b350ed36a8a2c01e0a4b773c139d75171c0/Atividade%206)
+## [Arquvivo da Atividade 6](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/1eaa5b350ed36a8a2c01e0a4b773c139d75171c0/Atividade%206)
 
 ## Atividade 7
 # Análise de Regressão Linear - Vendas de Sorvete (Kaggle)
@@ -67,7 +67,7 @@ Atividade iniciada com a extração de um dataset bruto da plataforma Kaggle. Os
 
 <img width="836" height="428" alt="image" src="https://github.com/user-attachments/assets/e9936e43-a972-4045-9a8b-8aebcab81f41" />
 
-# [Arquiv da atividade 7](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/77f5625d6617a4d8fe47bff050ae26dcf37f8516/Atividade%207%20Ice%20Cream%20Excel)
+## [Arquiv da atividade 7](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/77f5625d6617a4d8fe47bff050ae26dcf37f8516/Atividade%207%20Ice%20Cream%20Excel)
 
 ## Parte 2: Automação e Validação no Google Colab (Python)
 Para fins de comparação entre ferramentas, o mesmo experimento foi replicado via programação. Foi aberto um novo notebook no Google Colab e, com o auxílio de IA, foi estruturado um código que importou os mesmos dados do Kaggle. O dataset foi transformado via código, gerando a plotagem de um novo gráfico de regressão linear que incluiu a análise com a raiz quadrada, permitindo validar e comparar os resultados obtidos anteriormente no Excel.
