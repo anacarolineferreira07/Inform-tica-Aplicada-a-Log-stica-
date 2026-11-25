@@ -87,4 +87,6 @@ A pequena diferença nos números da equação e do $R^2$ acontece só pelo jeit
 
 No fim, mesmo com essa pequena diferença nos decimais por causa da divisão dos dados no código, os dois gráficos chegam no mesmo resultado e mostram a mesma relação entre as variáveis.
 
+# Certificado do Curso de Power BI
 
+[Certificado do curso de Power BI](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/81620246e9453a0a2a9b166b8bec4f9cc7c3288f/Certificado)
