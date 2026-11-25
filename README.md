@@ -33,7 +33,7 @@ Atividade desenvolvida a partir de uma base escolhida no portal de dados abertos
 
 <img width="1887" height="753" alt="image" src="https://github.com/user-attachments/assets/6f061c13-1d7a-4477-b456-40cf41b52a6d" />
 
-## [Arquivos da atividade 3]()
+## [Arquivos da atividade 3](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/5de2cfa1e860798af18328358fbcf931957f11cd/Atividade%203)
 
 ## Atividade 4
 # Análise de Dados de Empresas Multimodais
