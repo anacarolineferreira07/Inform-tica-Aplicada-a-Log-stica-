@@ -57,7 +57,7 @@ Nesta etapa, utilizamos uma base de dados governamental previamente tratada para
 
 <img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/cbaf4f54-6067-4ce3-af85-7db966a4a399" />
 
-# [Arquvivos da Atividade 6]()
+# [Arquvivos da Atividade 6](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/1eaa5b350ed36a8a2c01e0a4b773c139d75171c0/Atividade%206)
 
 ## Atividade 7
 # Análise de Regressão Linear - Vendas de Sorvete (Kaggle)
