@@ -17,7 +17,7 @@ Atividae realizada com objetivo de apresentar os integrantes do grupo, permitind
 
 <img width="1252" height="702" alt="image" src="https://github.com/user-attachments/assets/a7b3cec8-882d-48c4-b188-692d4f3f5e50" />
 
-# [Arquivos da ativida 1]()
+# [Arquivos da ativida 1](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/c96bf0beea50577b4d3884ceb46efc9dc606f0e7/Atividade%201)
 
 ## Atividade 2
 # Atividade de Informática Operador Multimodais - 28 de Agosto
