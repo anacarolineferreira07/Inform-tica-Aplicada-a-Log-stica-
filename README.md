@@ -67,13 +67,15 @@ Atividade iniciada com a extração de um dataset bruto da plataforma Kaggle. Os
 
 <img width="836" height="428" alt="image" src="https://github.com/user-attachments/assets/e9936e43-a972-4045-9a8b-8aebcab81f41" />
 
+# [Arquivos da atividade 7](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/77f5625d6617a4d8fe47bff050ae26dcf37f8516/Atividade%207%20Ice%20Cream%20Excel)
+
 
 ## Parte 2: Automação e Validação no Google Colab (Python)
 Para fins de comparação entre ferramentas, o mesmo experimento foi replicado via programação. Foi aberto um novo notebook no Google Colab e, com o auxílio de IA, foi estruturado um código que importou os mesmos dados do Kaggle. O dataset foi transformado via código, gerando a plotagem de um novo gráfico de regressão linear que incluiu a análise com a raiz quadrada, permitindo validar e comparar os resultados obtidos anteriormente no Excel.
 
 <img width="1148" height="677" alt="image" src="https://github.com/user-attachments/assets/b2212af1-cbd3-4307-8a0b-0010d94ac686" />
 
-# [Arquivos da atividade 7](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/77f5625d6617a4d8fe47bff050ae26dcf37f8516/Atividade%207%20Ice%20Cream%20Excel)
+## [Arquivo do google colab](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/blob/b76fe6463257698dec76a4aca5dfe989e00d714c/IceCream.ipynb)
 
 ## Atividade 8
 # Dashboard de Expectativa de Vida e Regressão Linear
