@@ -17,7 +17,7 @@ Atividae realizada com objetivo de apresentar os integrantes do grupo, permitind
 
 <img width="1252" height="702" alt="image" src="https://github.com/user-attachments/assets/a7b3cec8-882d-48c4-b188-692d4f3f5e50" />
 
-# [Arquivos da ativida 1](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/c96bf0beea50577b4d3884ceb46efc9dc606f0e7/Atividade%201)
+## [Arquivos da ativida 1](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/c96bf0beea50577b4d3884ceb46efc9dc606f0e7/Atividade%201)
 
 ## Atividade 2
 # Atividade de Informática Operador Multimodais - 28 de Agosto
@@ -25,7 +25,7 @@ Atividade desenvolvida para trabalhar a organização e análise da dados utiliz
 
 <img width="1872" height="708" alt="image" src="https://github.com/user-attachments/assets/4220b115-4308-46d2-be6e-c79ae984fa01" />
 
-# [Arquivos da ativide 2]()
+## [Arquivos da ativide 2](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/4d813c04597051e93b1c66a09b979dd12dea6a2d/Atividade%202)
 
 ## Atividade 3
 # Atividade de Análise Dados - Dados Cadastrais de Revendedores de Combustivel - 9 de Setembro
@@ -33,7 +33,7 @@ Atividade desenvolvida a partir de uma base escolhida no portal de dados abertos
 
 <img width="1887" height="753" alt="image" src="https://github.com/user-attachments/assets/6f061c13-1d7a-4477-b456-40cf41b52a6d" />
 
-# [Arquivos da atividade 3]()
+## [Arquivos da atividade 3]()
 
 ## Atividade 4
 # Análise de Dados de Empresas Multimodais
