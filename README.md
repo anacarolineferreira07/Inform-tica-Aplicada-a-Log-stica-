@@ -41,7 +41,7 @@ Atividade desenvolvida a partir de uma base de dados de empresas multimodais, in
 
 <img width="1316" height="732" alt="Captura de tela 2026-09-27 203137" src="https://github.com/user-attachments/assets/5c2a55ad-e0ec-4cfb-9ead-eea92a1c523f" />
 
-# [Arquivos da atvidade 4]
+# [Arquivos da atvidade 4]()
 
 ## Atividade 5
 # Atividade Análise de Dados no Power BI
