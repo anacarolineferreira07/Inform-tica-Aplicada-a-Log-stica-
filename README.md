@@ -17,11 +17,15 @@ Atividae realizada com objetivo de apresentar os integrantes do grupo, permitind
 
 <img width="1252" height="702" alt="image" src="https://github.com/user-attachments/assets/a7b3cec8-882d-48c4-b188-692d4f3f5e50" />
 
+# [Arquivos da ativida 1]()
+
 ## Atividade 2
 # Atividade de Informática Operador Multimodais - 28 de Agosto
 Atividade desenvolvida para trabalhar a organização e análise da dados utilizando planilha dos dados antt. Foram realizadas questões envolvendo tratamento, interpretação e apresentação dos dados que feitos gráficos com essas informações.
 
 <img width="1872" height="708" alt="image" src="https://github.com/user-attachments/assets/4220b115-4308-46d2-be6e-c79ae984fa01" />
+
+# [Arquivos da ativide 2]()
 
 ## Atividade 3
 # Atividade de Análise Dados - Dados Cadastrais de Revendedores de Combustivel - 9 de Setembro
@@ -29,11 +33,15 @@ Atividade desenvolvida a partir de uma base escolhida no portal de dados abertos
 
 <img width="1887" height="753" alt="image" src="https://github.com/user-attachments/assets/6f061c13-1d7a-4477-b456-40cf41b52a6d" />
 
+# [Arquivos da atividade 3]()
+
 ## Atividade 4
 # Análise de Dados de Empresas Multimodais
 Atividade desenvolvida a partir de uma base de dados de empresas multimodais, inicialmente analisada no Excel e posteriormente aplicada no Power BI. Foram feitas 3 questões e 1 questão feito pelo aluno onde foram utilizadas visualizações gráficas para analisar e apresentar os resultados.
 
 <img width="1316" height="732" alt="Captura de tela 2026-09-27 203137" src="https://github.com/user-attachments/assets/5c2a55ad-e0ec-4cfb-9ead-eea92a1c523f" />
+
+# [Arquivos da atvidade 4]
 
 ## Atividade 5
 # Atividade Análise de Dados no Power BI
@@ -41,11 +49,15 @@ Nesta atividade, foi realizada a continuação de uma análise desenvolvida ante
 
 <img width="1318" height="737" alt="image" src="https://github.com/user-attachments/assets/d5503630-fec6-4c9c-a280-fdce60cd1170" />
 
+# [Arquivos da atividade 5]()
+
 ## Atividade 6
 # Incluíndo imagens URL no Power BI
 Nesta etapa, utilizamos uma base de dados governamental previamente tratada para aprofundar as técnicas de modelagem no Power BI. O foco técnico da atividade foi a criação de uma tabela dimensional e o estabelecimento de um relacionamento de cardinalidade "1 para muitos" com a base principal. Além disso, aplicamos a técnica de categorização de dados por URL, o que permitiu renderizar figuras dinamicamente (bandeiras estaduais) e integrar imagens diretamente às visualizações e tabelas do painel.
 
 <img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/cbaf4f54-6067-4ce3-af85-7db966a4a399" />
+
+# [Arquvivos da Atividade 6
 
 ## Atividade 7
 # Análise de Regressão Linear - Vendas de Sorvete (Kaggle)
@@ -61,6 +73,7 @@ Para fins de comparação entre ferramentas, o mesmo experimento foi replicado v
 
 <img width="1148" height="677" alt="image" src="https://github.com/user-attachments/assets/b2212af1-cbd3-4307-8a0b-0010d94ac686" />
 
+# [Arquivos da atividade 7]()
 
 ## Atividade 8
 # Dashboard de Expectativa de Vida e Regressão Linear
@@ -78,6 +91,8 @@ Extração de um dataset acadêmico do GitHub para testar a correlação entre o
 Para validar o modelo criado no Excel, o processo estatístico foi replicado via código. A partir do mesmo link do GitHub, utilizou-se IA para gerar o script de plotagem. Após o refinamento manual do código para isolar apenas as variáveis necessárias (horas e notas), o script gerou o gráfico de regressão linear exibindo a equação e o coeficiente R, confirmando a exatidão dos resultados.
 
 <img width="1056" height="677" alt="image" src="https://github.com/user-attachments/assets/d93f33d8-fd1b-4b6f-8253-5fd3738511dd" />
+
+[Arquivos da atividade 8](https://github.com/anacarolineferreira07/Inform-tica-Aplicada-a-Log-stica-/tree/d55303bd79734879c9a09734d9c5b3a6fe093ba5/Atividade%208%20Regress%C3%A3o%20Linear%20Horas%20Estudas%20vs%20Nota%20de%20Prova%20Excel)
 
 ### Comparação entre os gráficos (Excel x Python)
 
